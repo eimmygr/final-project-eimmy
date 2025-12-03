@@ -2,6 +2,7 @@ CodePen Homepage Replica
 
 This is a replica of the CodePen homepage created for the Bottega University coding foundations final project.
 
+**Live Demo:** https://eimmygr.github.io/final-project-eimmy/
 
 Replicate CodePen.io homepage
 Includes navbar with Pens, Projects, Posts, Collections, Spark
